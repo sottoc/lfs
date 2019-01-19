@@ -11,7 +11,7 @@
 		  $_SERVER['SERVER_NAME'], ''
 		);
 	}
-	$rootpath = url().'/2018-8-13-Singapore/work/topup_card_management';
+	$rootpath = url().'/2018-8-13-Singapore/work/lfs';
 	$classdirectory = array ('bol', 'commoninfo', 'dal' );	
 
 	//$g_upload_path = "D:/topup_project_images/";
