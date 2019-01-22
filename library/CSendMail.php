@@ -22,7 +22,7 @@ class CSendMail
         // $email->Port = 25;
         // $email->SMTPAuth = false;
         // $email->SMTPSecure = false;
-        $email->From = "Chartwell-Lycee-Support@gmail.com";
+        $email->From = "Chartwell-Lycee-helpdesk@buttefly.sg";
         $email->FromName  = "Chartwell-Lycee-Support";
         //$email->SetFrom($address, $address);
         //$email->IsSMTP(); // enable SMTP
