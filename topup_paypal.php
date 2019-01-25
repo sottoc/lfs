@@ -157,7 +157,7 @@
 			<!--input type="hidden" name="cpp_header_image" value="http://localhost/topup_card_management_dec5/images/topup_logotext.gif"-->
 			<input type="hidden" name="currency_code" value="SGD">
 			<!--input type="hidden" name="handling" value="0"-->
-			<input type="hidden" name="cancel_return" value="<?php echo $rootpath; ?>/cancel.php">
+			<input type="hidden" name="cancel_return" value="<?php echo $rootpath; ?>/topup_paypal.php">
 			<input type="hidden" name="return" value="<?php echo $rootpath; ?>/success.php">
 			<div>
 				<input type="submit" name="btnsubmit" value="Top-up Now" class="btn control-button" style="height:100% !important;">
